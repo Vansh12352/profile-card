@@ -5,7 +5,7 @@ The profile picture is round, and if no picture is uploaded, a default avatar is
 Includes name, short bio, and links to GitHub and LinkedIn.
 
 ## Demo
-Live preview: [Click here](https://yourusername.github.io/profile-card/)
+Live preview: [Click here](https://github.com/Vansh12352)
 
 ## Features
 - Round profile picture
